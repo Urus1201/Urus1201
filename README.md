@@ -1,4 +1,4 @@
-# Hi, I'm Sourav Mukherjee 👋
+# Hi, I'm Urus
 
 **Data & AI Engineer at SLB** &nbsp;|&nbsp; Azure · OSDU · Dataiku · Agentic AI
 
