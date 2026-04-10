@@ -4,7 +4,7 @@
 
 I build production-grade data and AI solutions at the intersection of cloud infrastructure, MLOps, and agentic AI for the energy sector. At SLB, I help teams design, deploy, and scale solutions on Azure and OSDU — while enabling practitioners through Dataiku and DELFI.
 
-💬 Open to collaborating on MCP tooling, applied AI workflows, and data platform engineering.
+Open to collaborating on MCP tooling, applied AI workflows, and data platform engineering.
 
 ---
 
@@ -31,7 +31,7 @@ MCP server & Claude Code skill for creating and editing Excalidraw diagrams from
 
 ### Current Focus
 
-🔭 &nbsp;OSDU platform patterns · Agentic AI workflows · LLM agents & tool use · Applied AI in energy
+&nbsp;OSDU platform patterns · Agentic AI workflows · LLM agents & tool use · Applied AI in energy
 
 ---
 
