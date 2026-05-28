@@ -2,7 +2,7 @@
 
 **Data & AI Engineer at XYZ** &nbsp;|&nbsp; Azure · OSDU · Dataiku · Agentic AI
 
-I build production-grade data and AI solutions at the intersection of cloud infrastructure, MLOps, and agentic AI for the energy sector. At SLB, I help teams design, deploy, and scale solutions on Azure and OSDU — while enabling practitioners through Dataiku and DELFI.
+I build production-grade data and AI solutions at the intersection of cloud infrastructure, MLOps, and agentic AI for the energy sector. At XYZ, I help teams design, deploy, and scale solutions on Azure and OSDU — while enabling practitioners through Dataiku and Digital Platform.
 
 Open to collaborating on MCP tooling, applied AI workflows, and data platform engineering.
 
